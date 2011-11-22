@@ -1,0 +1,9 @@
+An excerpt from our proposal:
+
+"The goal is to find the longest sequence of movie titles such that each movie title shares at least one word with the next one. The shared word must be at the end of the first title and the beginning of the next, forming a “chain”. The chain is formed from a list of over 6000 movie titles. We will use our knowledge in data structures and graph theory to try and implement a solution that finds a movie title chain longer than any found before."
+
+Group Members:
+  Greg Taylor
+  Kyle Joswiak
+  Yi Huo
+  Lucas Becker
